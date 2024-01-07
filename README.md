@@ -19,7 +19,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Mocha - Better Assert Testing
+- Mocha - Better-Assert Testing
 - Mobile-first workflow
 
 ## Author
